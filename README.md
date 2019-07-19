@@ -1,10 +1,13 @@
 # TodoList-React
 
-#Install the dépendencies
+Install the dépendencies
+
 npm i --save
 
-#Build 
+Build 
+
 npm run build
 
-#Run the server
+Run the server
+
 npm run start
